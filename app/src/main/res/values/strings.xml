@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MyFirstApplication</string>
+    <string name="hello_text" translatable="false">Hello World!</string>
+    <string name="test" translatable="false">test</string>
+</resources>
